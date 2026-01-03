@@ -2,11 +2,11 @@ import os
 from os import environ
 
 # API Configuration
-API_ID = int(os.environ.get("API_ID", "294351"))
-API_HASH = os.environ.get("API_HASH", "2d211eb63606daee")
+API_ID = int(os.environ.get("API_ID", "21442913"))
+API_HASH = os.environ.get("API_HASH", "b95b8bae367e19c3356b9f0004b218c2")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
-CREDIT = os.environ.get("CREDIT", "⌯ FʀᴏɴᴛMᴀɴ | ×͜× |")
+CREDIT = os.environ.get("CREDIT", "⌯ Kuɴwar Sa Sodha❤️ | ×͜× |")
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "DevThanos")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Dev-Thanos")  # Add your own atlas db
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
